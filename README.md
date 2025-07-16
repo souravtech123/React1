@@ -1,12 +1,26 @@
-# React + Vite
+# 🔐 React Login App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 **Live Demo**: [Click to view the project](loginpage-green.vercel.app)
 
-Currently, two official plugins are available:
+A simple and clean login application built with **React**, demonstrating the use of **Context API**, **components**, and **basic React functionality**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Enter your name and password — the app will **welcome you** after successful login. Tailwind CSS is used for fast and responsive UI styling.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- Context API for global state (login handling)
+- Functional Components
+- Basic React Hooks (`useState`, `useContext`)
+- Input validation (simple)
+- Tailwind CSS UI styling
+
+---
+
+## ⚙️ Tech Stack
+
+- React.js
+- Tailwind CSS
+- Context API
+- JavaScript (ES6+)
